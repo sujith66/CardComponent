@@ -7,10 +7,10 @@
     "package",
     "tutorial"
   ],
-  "homepage": "https://github.com/UserName/package-name",
+  "homepage": "https://github.com/sujith66/CardComponent",
   "bugs": {
-    "url": "https://github.com/UserName/package-name/issues",
-    "email": "your-public-email@example.com"
+    "url": "https://github.com/sujith66/CardComponent/issues",
+    "email": "sujiths066@gmail.com"
   },
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
     "type": "git",
     "url": "https://github.com/UserName/package-name.git"
   },
-  "author": "Joe Bloggs <your-public-email@example.com> (your-website.com)",
+  "author": "Sujith Surendran",
   "license": "MIT",
   "private": false,
   "engines": {
